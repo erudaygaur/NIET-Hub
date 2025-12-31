@@ -70,9 +70,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 **Devesh Giri**
-- Email: er.deveshgiri@gmail.com
+- Email: er.udaygaur@gmail.com
 - GitHub: [@erudaygaur](https://github.com/erudaygaur)
-- Project: [NIET-Hub](https://github.com/erdeveshgiri/NIET-Hub)
+- Project: [NIET-Hub](https://github.com/erudaygaur/NIET-Hub)
 
 ## 📝 License
 
